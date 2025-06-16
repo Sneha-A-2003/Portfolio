@@ -1,2 +1,15 @@
-# Portfolio
- A personal portfolio website built using HTML, CSS and JavaScript designed to showcase my projects, skills  and contact information. This responsive site serves as a digital resume and portfolio for potential recruiters and collaborators.
+# 💼 Sneha's Personal Portfolio
+
+A responsive personal portfolio website built with HTML and CSS to showcase my work, skills, and background.
+
+## ✨ Features
+- About Me section
+- Project showcase with descriptions
+- Contact section with email and social links
+- Resume download option
+- Fully responsive design
+
+## 🚀 Technologies Used
+- HTML5
+- CSS3
+- JavaScript
